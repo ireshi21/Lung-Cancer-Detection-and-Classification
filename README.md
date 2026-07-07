@@ -68,6 +68,7 @@ The preprocessing pipeline includes:
 | MobileNetV2 | 95.06 |
 
 **Best Performing Model:** ResNet50
+<img width="703" height="771" alt="image" src="https://github.com/user-attachments/assets/c66f14d4-9cf4-48ac-b0eb-1679c94c9134" />
 
 Evaluation metrics used:
 
